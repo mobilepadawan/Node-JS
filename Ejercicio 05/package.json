@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-05",
+  "version": "1.0.0",
+  "description": "Writing my first HTTP Server with express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Luna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

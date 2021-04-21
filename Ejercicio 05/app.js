@@ -1,9 +1,11 @@
-const http = require("http")
-const server = http.createServer((req, res)=> {
-   res.end("Este servidor remoto está respondiendo a tu solicitud V2.0")
-})
-const port = 3000
+const express = require('express')
+const app = express()
+const por = 3000
 
-server.listen(port, ()=> {
-   console.log("Escuchando solicitudes...")
+app.get('/', (req, res) => {
+   res.send('Mi respuesta desde Express')
+})
+
+app.listen(port, ()=> {
+   console.log('Servidor disponible en el puerto' + port)
 })
