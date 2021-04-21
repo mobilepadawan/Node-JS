@@ -20,3 +20,9 @@ console.log(cowsay.say({
 // }))
 
 // console.warn(`Dinero disponible: $ ${dinero}`)
+
+//Si queremos instalar el módulo  de forma global:
+//npm insall -g cowsay (sudo + el password del usuario si estás en Linux o Mac)
+
+/* Luego, desde la consola tipeas:
+npx cowsay "El saludo que querés mostrar" */
