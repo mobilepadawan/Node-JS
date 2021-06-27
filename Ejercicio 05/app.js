@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, ()=> {
-   console.log('Servidor disponible en el puerto ' + port)
+   console.log(`Servidor disponible en el puerto ${port}`)
 })
