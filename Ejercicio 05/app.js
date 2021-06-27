@@ -1,11 +1,11 @@
 const express = require('express')
 const app = express()
-const por = 3000
+const port = 3000
 
 app.get('/', (req, res) => {
    res.send('Mi respuesta desde Express')
 })
 
 app.listen(port, ()=> {
-   console.log('Servidor disponible en el puerto' + port)
+   console.log('Servidor disponible en el puerto ' + port)
 })
