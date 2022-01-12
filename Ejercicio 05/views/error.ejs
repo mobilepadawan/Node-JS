@@ -5,24 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EJS error template</title>
     <style>
-        .fondo {
-            background-color: darkred;
-        }
         body {
+            padding: 20 20;
+            margin: 20px 20px;
+            background-color: darkred;
             color: whitesmoke;
+            font-size: medium;
+            font-family: Arial, Helvetica, sans-serif;
         }
     </style>
 </head>
 <body>
-    <h1>Mi primera página EJS</h1>
-    <p>Este es un documento HTML generado a partir de una página con extensión EJS. Esta se basa en la extensión EJS TEMPLATE.</p>
-    <div>
-        <h2>Listado de <%= data.userQuery %></h2>
-        <ol>
-            <% data.searchResults.forEach(result => { %>
-                <li> <%= result %> </li>
-            <% }) %>
-        </ol>
-    </div>
+    <h1>ERROR { 404 }</h1>
+    <p>No podemos encontrar el recurso que ha solicitado :(</p>
+    <p>Pruebe ingresando otro parámetro de búsqueda o reiniciando el acceso a este sitio web.</p>
 </body>
 </html>
