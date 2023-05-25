@@ -1,0 +1,8 @@
+Hola Profe: este es un ejemplo de la conexión al clúster MongoDB que utilicé para abordar el proyecto. Dicha cadena de conexión la podés encontrar en MongoDB Compass.
+
+Reemplazá con tu propia cadena de conexión, el modelo que aquí te dejo, y copia todo lo de aquí abajo al archivo .env de este proyecto.
+
+Luego asegurate de que exista la bb.dd. 'frutas' y la Colección 'frutas' para que todo fluya naturalmente.
+
+PORT=3008
+MONGODB_URLSTRING=mongodb+srv://<usuario_mongodb_atlas>:<password_mongodb_atlas@<database>.uya7fjp.mongodb.net/?retryWrites=true&w=majority

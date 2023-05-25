@@ -1,0 +1,19 @@
+{
+  "name": "node-js-mongo-db",
+  "version": "1.0.0",
+  "description": "Conexión de Express JS con MongoDB Clúster",
+  "main": "server.js",
+  "sript": 
+  {
+    "start": "node server.js --watch"
+  },
+  "dependencies": 
+  {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0"
+  },
+  "keywords": [],
+  "author": "Fernando O. Luna",
+  "license": "ISC"
+}

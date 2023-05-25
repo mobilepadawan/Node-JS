@@ -1,0 +1,10 @@
+Todo el código de este proyecto incluye lo utilizado como modelo en las diapositivas de esta clase, además de incluir los endpoints que se piden crear como Ejercicio.
+
+Podés compartirles este proyecto a las estudiantes, teniendo la precaución de eliminar los dos últimos endpoints.
+
+/frutas/nombre/:nombre
+/frutas/importe/:precio
+
+En el primero de estos endpoints que se piden como ejercitación, estamos agregando Expresiones Regulares. Deberán integrar la clase JS RegExp ella mismas, para poder hacer funcionar la primera de las consignas. Dejé la documentación oficial de MDN para que la lean y busquen la vuelta de cómo resolver esto.
+
+Tal vez les cueste realizarlo. Cualquier cosa, luego podes explicar cómo se utilizan expresiones regulares en JS, y resolves este ejemplo de acuerdo al código que te comparto. Pero es clave ponerlas a trabajar con documentación para que se acostumbren a tener que lidiar con la misma. `:D`
