@@ -1,0 +1,7 @@
+Profe: podes compartirle este proyecto a las/los estudiantes.
+
+En el archivo server.js tienen indicado a partir de qué lugar deben agregar la resolución del desafío.
+
+No vale utilizar funciones de orden superior, dado que recién se ven en la clase siguiente. Deben iterar el array e ir armando el resultado de acuerdo a la comparación de datos.
+
+Que recuerden inicializar el proyecto con npm install, para que se agreguen todos los módulos necesarios, declarados en package.json.

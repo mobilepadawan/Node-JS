@@ -1,0 +1,9 @@
+Profe: este proyecto corresponde a la unidad 07 del curso de backend.
+
+Tienes el código funcional de todo lo explicado a lo largo de las diapositivas.
+
+Recuerda inicializar el proyecto con npm install para que se agreguen las dependencias necesarias.
+
+Aprovecha el mismo y evita mostrar el apartado con la resolución del desafío que se propone al finalizar esta clase. Por favor, ten cuidado de que dicho código no se vea.
+
+Para este último desafío, encontrarás el archivo (Parámetros Dinámicos - Para Compartir.zip) que es el que deberás compartir a l@s estudiantes para que realicen el mismo.
