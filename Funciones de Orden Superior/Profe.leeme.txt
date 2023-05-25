@@ -1,0 +1,7 @@
+Profe, te comparto el ejemplo utilizado en la unidad Funciones de Orden Superior.
+
+Son solo Arrow functions que van invocando a cada función de orden superior.
+
+Fijate que, junto al método filter(), tenés comentados un montón de ejemplos diversos para ir probando diferentes resultados filtrando productos.
+
+Podés crear un Proyecto en Node, con Endpoints que representen el resultado de la ejecución de cada función de orden superior. Esto te permitirá mostrar el resultado de cada método en la pestaña del navegador web.
