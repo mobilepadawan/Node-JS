@@ -1,0 +1,9 @@
+Profe: abre esta carpeta con VS CODE, y ejecuta en la ventana Terminal NPM INSTALL para que se agregue la carpeta node_modules.
+
+Crea el archivo .env y agrega en éste lo siguiente:
+
+PORT=3008
+DATABASE_PATH=/database/frutas.json
+
+Podés cambiar si queres el nombre de la carpeta /SRC/ por el que gustes, lo mismo con la ruta /DATABASE/. Recordá corregir las variables de entorno usadas en lógica de la aplicación.
+
